@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfRptFilterReportPar xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.totvs.com.br/RM/">
+  <RptFilterReportPar>
+    <BandName>RptReport</BandName>
+    <FiltersByTable />
+    <MainFilter>true</MainFilter>
+    <Value></Value>
+  </RptFilterReportPar>
+</ArrayOfRptFilterReportPar>
